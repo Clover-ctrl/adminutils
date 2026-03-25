@@ -29,4 +29,4 @@ muted players
 warnings
 Hooks into server API:
 Spigot/Paper API
-https://tenor.com/view/slumberout-gif-6730535457859239584
+[https://tenor.com/view/slumberout-gif-6730535457859239584](https://media.tenor.com/XWeqVsne_qAAAAAi/slumberout.gif)
