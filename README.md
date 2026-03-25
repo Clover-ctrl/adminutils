@@ -29,5 +29,6 @@ muted players
 warnings
 Hooks into server API:
 Spigot/Paper API
+![slumberout](https://github.com/user-attachments/assets/78c7f39d-8724-4ead-8510-c0a32374ad56)
 
-https://media.tenor.com/XWeqVsne_qAAAAAi/slumberout.gif
+
