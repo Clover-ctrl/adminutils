@@ -1,0 +1,9 @@
+name: menutils
+version: '1.0-SNAPSHOT'
+main: Me.menutils.Menutils
+api-version: '1.21'
+
+commands:
+  menutils:
+    description: Opens the menutils menu
+    usage: /menutils
